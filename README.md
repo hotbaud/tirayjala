@@ -28,7 +28,18 @@ know!  We can add them to the pool.
 
 -------
 
-Version for arbitrary environments, with or without a proxy.
+branch:  main
+
+    No Proxy
+
+branch:  hpeversion
+
+    Proxy configured
+
+Make your own versions with your personal proxy environments configured, and fork to
+your own repository as needed.
+
+We have branches for for arbitrary environments, with or without a proxy.
 
 For fun we also include a script that builds and packages the image into a tar.gz
 file.  Why?  Because we can.  The image is also just as easily uploaded to dockerhub
